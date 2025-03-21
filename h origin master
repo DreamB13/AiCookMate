@@ -1,0 +1,277 @@
+[33mcommit 690a1191f25f88bd6e2828ddb4a3ccd67786b241[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 097b1ad d79cc6f
+Author: Gabrielf06 <mamimomi7595@gmail.com>
+Date:   Fri Jan 17 20:20:40 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 097b1ad251f9bba57ad0ac383609a92d22f3feee[m
+Author: Gabrielf06 <mamimomi7595@gmail.com>
+Date:   Fri Jan 17 20:19:02 2025 +0900
+
+    openAI complete
+
+[33mcommit d79cc6f88dc302b238218fa362eb6cda5cd865d4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c362a9e 9f885a1
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 20:08:39 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit c362a9eae53d443abade8d87b7976e6fdf95f9d9[m
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 20:08:23 2025 +0900
+
+    Editing
+
+[33mcommit 9f885a1cbad785b4ead812f347f5795856f90589[m
+Merge: 9229e96 03bf9e5
+Author: Gabrielf06 <mamimomi7595@gmail.com>
+Date:   Fri Jan 17 18:33:18 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 9229e96ba3b1f05b12b1e6221d8cf7186f264f42[m
+Author: Gabrielf06 <mamimomi7595@gmail.com>
+Date:   Fri Jan 17 18:33:06 2025 +0900
+
+    openAI gradle complete
+
+[33mcommit 03bf9e5900fdac0283d9b6d6a7a6d1af4967866c[m
+Merge: 00c1b94 bd2a9f7
+Author: DreamB <luisluos@gmail.com>
+Date:   Fri Jan 17 18:32:33 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit bd2a9f765a823de5f92c7bc9004673721cead80b[m
+Merge: b01e21c 88b871a
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 18:31:59 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 00c1b942a6af752ee5bdc3e3cc9072027ba42752[m
+Author: DreamB <luisluos@gmail.com>
+Date:   Fri Jan 17 18:31:57 2025 +0900
+
+    add refrigerator GPT Button
+
+[33mcommit b01e21cbcda7296a17e5df91ad2f62bec6acd454[m
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 18:31:39 2025 +0900
+
+    Editing
+
+[33mcommit 88b871aed2d2cfa1a73acda0a57d0a5c4cf728b5[m
+Author: DreamB <luisluos@gmail.com>
+Date:   Fri Jan 17 15:53:58 2025 +0900
+
+    refrigerator
+
+[33mcommit b2d08ebf0f220b5ef36db99e31626877c156bf53[m
+Merge: 2cf4c51 6708028
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 15:55:21 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 2cf4c517ac13e5e78ca3470901b789115a197d76[m
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 15:55:05 2025 +0900
+
+    Editing
+
+[33mcommit 67080289c62e37978c0b8028a2e114fa43f1d401[m
+Merge: fee84c7 66d027b
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 15:54:57 2025 +0900
+
+    Merge remote-tracking branch 'github/master'
+
+[33mcommit fee84c7a80fe3f5d00ee4cf0f27022d9f3f8393c[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 15:53:41 2025 +0900
+
+    GPT Screen complete
+
+[33mcommit 66d027b7e2b56856ec5cb34fbc7de457817fc179[m
+Merge: 1971538 71188fb
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 15:07:12 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 1971538020b730fb75584a3b7199405d770b8fcf[m
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 15:06:51 2025 +0900
+
+    Editing
+
+[33mcommit 71188fb2dcb7fe2ac7c223f134cac2bbbff0a919[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 15:02:25 2025 +0900
+
+    GPT Screen complete
+
+[33mcommit 67aa479aa8c0c0331a27e9f278f1f83ecb2ef941[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 14:55:45 2025 +0900
+
+    GPT Screen complete
+
+[33mcommit 90e9ed3449d342d25316de8288c2befd6fc06549[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 13:43:58 2025 +0900
+
+    GPT Screen complete
+
+[33mcommit 7a5a8fcb58498d2e0266608e22317c81cb510945[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 13:43:17 2025 +0900
+
+    GPT Screen complete
+
+[33mcommit 6803cffba3dbe4765c464278dfe430cd4e8fe066[m
+Merge: b1b5d31 1965f6f
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 13:18:12 2025 +0900
+
+    Merge remote-tracking branch 'github/master'
+
+[33mcommit b1b5d31c25a5fc19073267960bbe7f7592fd53f9[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 13:17:55 2025 +0900
+
+    GPT Screen complete
+
+[33mcommit 1965f6f3eb02e81e06291b7b7d6070b3cbcb38a1[m
+Merge: a739f23 9a96833
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 12:13:54 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit a739f23a558c7b4c3c62f65b0fa7aad790bfc911[m
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 12:13:36 2025 +0900
+
+    Editing
+
+[33mcommit 9a9683388df9965ab289ea7829075726cb456e61[m
+Merge: 3fcb686 1ecbf90
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 12:11:37 2025 +0900
+
+    Merge remote-tracking branch 'github/master'
+
+[33mcommit 3fcb686e4dc40181e4dba3aa123a6617433deb09[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 12:11:24 2025 +0900
+
+    GPT Screen complete
+
+[33mcommit 1ecbf90dc7646c825c5215d6cdd4bca48e6da392[m
+Author: Gabrielf06 <mamimomi7595@gmail.com>
+Date:   Fri Jan 17 11:39:00 2025 +0900
+
+    RecipeScreen complete
+
+[33mcommit 3ca1e6dbb27716ed29173d897e3b21c9805f5599[m
+Merge: 602a354 48cf81c
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 11:03:38 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 48cf81c5a65bbc815943e3099b6ba7cb8aa00e73[m
+Merge: a1c85e5 3685ebd
+Author: Gabrielf06 <mamimomi7595@gmail.com>
+Date:   Fri Jan 17 11:02:58 2025 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit a1c85e5feea72c1b13558b0ebfb4f9e4cf03b7a6[m
+Author: Gabrielf06 <mamimomi7595@gmail.com>
+Date:   Fri Jan 17 11:02:36 2025 +0900
+
+    Refrigerator complete
+
+[33mcommit 602a354e86a87e1e96ffc68649da7c1ec8392fe7[m
+Author: kci01 <kci01184@naver.com>
+Date:   Fri Jan 17 11:01:20 2025 +0900
+
+    마이페이지 수정 중
+
+[33mcommit 3685ebd3dc1d0158db9f11c533103a0745ccd2c8[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 11:00:55 2025 +0900
+
+    RecipeScreen complete
+
+[33mcommit de6952d457ad177c058659c313cb3f870cf0421d[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 10:18:19 2025 +0900
+
+    RecipeScreen complete
+
+[33mcommit de3570b950e6ca5e6e209e22c5b6429881f58794[m
+Author: dong chan <sts05147@naver.com>
+Date:   Fri Jan 17 09:56:06 2025 +0900
+
+    RecipeScreen complete
+
+[33mcommit a3e29ba108c01905dfed9b68ee51165feb282d16[m
+Merge: 0a2791c 67fc2f9
+Author: dong chan <sts05147@naver.com>
+Date:   Thu Jan 16 22:57:23 2025 +0900
+
+    RecipeScreen complete
+
+[33mcommit 0a2791c9c8cbacdd31e914486aa1c089f18adf28[m
+Author: dong chan <sts05147@naver.com>
+Date:   Thu Jan 16 17:53:01 2025 +0900
+
+    shoppingScreen compelete
+
+[33mcommit 67fc2f91cad183a3ec0adbb55cac9e18a251e671[m
+Author: DreamB <luisluos@gmail.com>
+Date:   Thu Jan 16 17:50:47 2025 +0900
+
+    I make Refrigerator Page
+
+[33mcommit 641cd0b33b4731872bfd9790fce6a58e36fc4acb[m
+Author: dong chan <sts05147@naver.com>
+Date:   Thu Jan 16 13:37:47 2025 +0900
+
+    shoppingScreen compelete
+
+[33mcommit 81ffde930de571a8a24bece91713a1fe8310ddf5[m
+Author: dong chan <sts05147@naver.com>
+Date:   Thu Jan 16 11:31:28 2025 +0900
+
+    shoppingScreen compelete
+
+[33mcommit fb220b3acdba8a0582fa109284245109b39188a5[m
+Author: DreamB <luisluos@gmail.com>
+Date:   Thu Jan 16 10:05:35 2025 +0900
+
+    Create Navigation
+
+[33mcommit 7812b6e394fa4c72c3f772f12a89379eb0790937[m
+Author: dong chan <sts05147@naver.com>
+Date:   Thu Jan 16 09:14:04 2025 +0900
+
+    mypage complete
+
+[33mcommit f1a9112ef3506418226e24e592d8b0cee49dffb1[m
+Author: dong chan <sts05147@naver.com>
+Date:   Wed Jan 15 17:04:40 2025 +0900
+
+    호준이가 말한대로-
+
+[33mcommit 3e6e30b06af4b13b4d49c595efa96dabbd4c51d2[m
+Author: dong chan <sts05147@naver.com>
+Date:   Wed Jan 15 15:46:20 2025 +0900
+
+    first day
